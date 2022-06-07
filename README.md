@@ -1,1 +1,2 @@
-# palindromString_java101_patika.dev
+### Java dilinde kullanıcının girdiği kelimenin "Palindromik" olup olmadığı bulan bir program yazıyoruz.
+
